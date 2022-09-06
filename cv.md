@@ -1,9 +1,12 @@
 # Abadzheva Ekaterina
+
 ## Junior developer
+
 *******
+
 ### Contacts
 
-__email__: make.me.loco@gmail.com
+__email__: <make.me.loco@gmail.com>
 
 __phone__: +7 953 153 28 29
 
@@ -12,6 +15,7 @@ __Discord__: AbadzhevaK8#4703 (@AbadzhevaK8)
 [Github](https://github.com/AbadzhevaK8/)
 
 ********
+
 ### Summary
 I have been working as a project manager from 2014 to 2017.
 During this period I gained experience:
@@ -45,6 +49,7 @@ Now I'm learning to create a golang backend and a frontend.
 
 
 *******
+
 ### Skills
 * HTML / CSS / JS
 * python
@@ -89,6 +94,7 @@ func main() {
 ```
 
 *******
+
 ### Education
 #### Higher education ####
 
@@ -98,6 +104,7 @@ Faculty of Economics, Management and Information Technology, Economics and Enter
 **2014**
 
 ----------------------------------------------------
+
 #### Advanced training courses ####
 
 
@@ -107,10 +114,12 @@ IT Academy of Alexey Sukhorukov, Tester**
 **2020**
 
 *******
+
 ### English
 [B2 (Upper intermediate)](https://www.efset.org/cert/sEtoSQ)
 
 *******
+
 ### Projects
 [CV](https://AbadzhevaK8.github.io/rsschool-cv/cv)
 
