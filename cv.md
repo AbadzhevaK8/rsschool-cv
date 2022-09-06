@@ -64,7 +64,7 @@ Now I'm learning to create a golang backend and a frontend.
 
 ### Code example
 
-```
+```go
 package main
 
 import (
