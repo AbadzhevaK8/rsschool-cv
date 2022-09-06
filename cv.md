@@ -108,11 +108,14 @@ IT Academy of Alexey Sukhorukov, Tester**
 
 *******
 ### English
-B1 (Intermediate)
+[B2 (Upper intermediate)](https://www.efset.org/cert/sEtoSQ)
 
 *******
 ### Projects
 [CV](https://AbadzhevaK8.github.io/rsschool-cv/cv)
+
 [Travel](https://rolling-scopes-school.github.io/abadzhevak8-JSFEPRESCHOOL2022Q2/travel/)
+
 [Momentum](https://rolling-scopes-school.github.io/abadzhevak8-JSFEPRESCHOOL2022Q2/momentum/)
+
 [Eldtitch horror gamedeck helper](https://abadzhevak8.github.io/codejam-eldritch/)
